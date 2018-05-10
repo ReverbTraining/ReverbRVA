@@ -8,4 +8,4 @@ title: "Jackson Ward"
 [History](history) •
 [Events](events) •
 [Restaurants and Bars](restabars) •
-[Interesting and fun places](interesting-places) • [Businesses](businesses)  
+[Interesting and fun places](interesting-places) • [Businesses](business)  
