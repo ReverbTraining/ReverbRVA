@@ -1,4 +1,4 @@
-# Jackson Ward Bars & Restaurants #
+# Night Life is Jumping in<br/>Jackson Ward's Bars & Restaurants! #
 
 ![Jackson Ward Bars & Restaurants](images/jackson-beer-garden.png)
 
