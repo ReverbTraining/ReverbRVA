@@ -1,4 +1,4 @@
-# church hill has **parks** :deciduous_tree::deciduous_tree::deciduous_tree::deciduous_tree:
+# church hill has :deciduous_tree::deciduous_tree::deciduous_tree: **parks**  :deciduous_tree::deciduous_tree::deciduous_tree:
 ### and they are :sparkles:*awesome*:sparkles:
 ###### no, really, look at them:
 
@@ -11,5 +11,6 @@ is a city park with a visitor center for the Richmond National Battlefield \(& m
 ![jefferson park](https://bloximages.newyork1.vip.townnews.com/richmond.com/content/tncms/assets/v3/editorial/0/34/0340b5e2-59c1-5c70-ab4a-097bf2d47e8e/50bf7097db718.image.jpg)
 ![workout equipment](https://chpn.net/wp-content/uploads/2016/05/IMG_2513.jpg)
 
-* ***[Libbie Hill](https://www.google.com/maps/dir/''/libbie+hill+park/data=!4m5!4m4!1m0!1m2!1m1!1s0x89b110e4a2a0526d:0x4c4d4b85f185e474?sa=X&ved=0ahUKEwjqsZnI3PvaAhUJZd8KHdsiCa8Q9RcIpQEwDw)*** has great views of the city! 
+* ***[Libbie Hill](https://www.google.com/maps/dir/''/libbie+hill+park/data=!4m5!4m4!1m0!1m2!1m1!1s0x89b110e4a2a0526d:0x4c4d4b85f185e474?sa=X&ved=0ahUKEwjqsZnI3PvaAhUJZd8KHdsiCa8Q9RcIpQEwDw)*** has great views of the city \(so great that the view from this high point is said to have given Richmond its name!\)
 ![libbie hill image](https://enrichmond.org/wp-content/uploads/2016/05/libby-hill.jpg)
+![people in libbie park](http://www.stevenandlilyphotography.com/wp-content/uploads/2017/04/Richmond-Capitol-Engagement-Session-Libby-Hill-Park-Richmond-Wedding-Photographer_0019.jpg)
