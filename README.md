@@ -1,6 +1,6 @@
 # ReverbRVA
 
-Site published at [ReverbRVA.com](ReverbRVA.com) using GitHub Pages. 
+Site published at [ReverbRVA.com](http://www.ReverbRVA.com) using GitHub Pages. 
 
 ## GitHub Pages formatting
 
