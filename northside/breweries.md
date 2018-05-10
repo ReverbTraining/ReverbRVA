@@ -1,3 +1,7 @@
-# Final Gravity is great!
+---
+title: "Northside breweries"
+---
 
-[Link to Final Gravity](www.oggravity.com)
+ Final Gravity is great!
+
+[Link to Final Gravity](http://www.oggravity.com)
