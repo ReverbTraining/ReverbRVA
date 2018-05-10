@@ -10,4 +10,4 @@ title: "Church Hill"
 #### :hamburger: [Restaurants](dining) :hamburger:
 #### :bicyclist: [Biking](bikes) :bicyclist:
 #### :deciduous_tree: [Parks](parks) :deciduous_tree:
-#### :beers: [Bars](bars) :beers:
+#### :beers: [Bars](Bars) :beers:
