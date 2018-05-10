@@ -1,6 +1,6 @@
 # Jackson Ward Bars & Restaurants #
 
-![Jackson Ward Bars & Restaurants](jackson-s-beer-garden.png)
+![Jackson Ward Bars & Restaurants](images/jackson-beer-garden.png)
 
 Bars             | Restaurants
 ---------------- | ----------------
