@@ -1,4 +1,6 @@
-# The Hof Garden
+# <u> Things To Do In Scott's Addition </u>
+
+## The Hof Garden
 _2818 W. Broad Street_
 #### A rooftop bar w/ DJ and breakdancers!
 
@@ -7,7 +9,7 @@ Overall, the downstairs pub is comfortable and the staff is eager and friendly t
 ![The Hof Garden](http://www.scottsaddition.com/resources/Pictures/Lounge%20section.jpg)
 
 
-# Jackson & James
+## Jackson & James
 #### A new menswear store.
 
 _3200 Rockbridge St. Suite 102_
@@ -17,7 +19,7 @@ It’s getting down to business at Jackson & James, a new menswear store coming 
 ![Jackson & James](http://www.scottsaddition.com/resources/Pictures/Store.jpg)
 
 
-# Gather
+## Gather
 
 #### Work/Meeting Space
 _2920 W. Broad Street._
@@ -29,7 +31,7 @@ Walking through the front doors, you're immediately faced with a modern, yet inv
 
 ![gather](http://www.scottsaddition.com/resources/Pictures/170228_GatherRVA_372.jpg)
 
-# River City Roll
+## River City Roll
 
 #### Boutique Bowling
 _939 Myers Street
