@@ -18,6 +18,8 @@ It’s getting down to business at Jackson & James, a new menswear store coming 
 
 ![Jackson & James](http://www.scottsaddition.com/resources/Pictures/Store.jpg)
 
+Jackson & James is located at 3200 Rockbridge St. Suite 102. Or, if you identify with landmarks – look for the large blue building at the back edge of the north end of the neighborhood. Store hours will be Monday-Saturday 10am-8pm and Sunday 12pm-6pm. Follow the Jackson & James [Instagram](https://www.instagram.com/jacksonandjamesmc/) and [Facebook](https://www.facebook.com/jacksonandjamesmc/) pages to keep up with their upcoming events and seasonal inventory.
+
 
 ## Gather
 
@@ -30,6 +32,8 @@ work
 Walking through the front doors, you're immediately faced with a modern, yet invitingly cozy lobby / workspace / kitchen. It's roomy and wide open and sectioned off into a reception area, kitchen-bar, phone booths and group workspaces along with a small sofa and den set up.
 
 ![gather](http://www.scottsaddition.com/resources/Pictures/170228_GatherRVA_372.jpg)
+
+[GatherRVA](http://www.gatherrva.com/en/page/scotts-addition)
 
 ## River City Roll
 
