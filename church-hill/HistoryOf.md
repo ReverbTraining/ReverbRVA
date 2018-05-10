@@ -10,11 +10,14 @@ Church Hill is in the Eastern District of Richmond when looking at a map, and ge
 
 
 The district encompasses the *original* plot of land that defined Richmond City.
-There are multiple historical landmarks here, can you hit all of them in one day?
 
-1. St. John's Episcopal Church![St johns church](church.jpg)
-  * St. John's Mews
-1. Confederate Soldiers and Sailor's Landmark![Soldiers landmark](soldiers.jpg)
-1. Adam's Double House
-1. Elmira Shelton House
-1. Honte Maria
+## Civil War
+
+During the Civil War, one of the largest hospitals was located in Chimbarozo Park, known as the "Hospital on the Hill"
+![Chimbarozo Hospital](chimbarozo_hospital.jpg)
+
+## Railroad Tunnels and Collapse
+
+In 1925, the single track railroad that was built during the Reconstruction period collapsed. This is known as the Church Hill Railroad and the entrance of it can still be found today. Due to the nature of the collapse, there are properties in Church Hill today that are at risk of damage as the land shifts.
+
+![Tunnel](Church_hill_tunnel.jpg)
