@@ -6,7 +6,7 @@ title: "Church Hill"
 
 #### :city_sunset: [History Of](HistoryOf) :city_sunset:
 #### :statue_of_liberty: [Landmarks](Landmarks) :statue_of_liberty:
-#### :bread: [Bakeries](bakeries) :bread:
+#### :bread: [Bakeries](bakery) :bread:
 #### :hamburger: [Restaurants](dining) :hamburger:
 #### :bicyclist: [Biking](bikes) :bicyclist:
 #### :deciduous_tree: [Parks](parks) :deciduous_tree:
